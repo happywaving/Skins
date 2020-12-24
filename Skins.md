@@ -11,3 +11,7 @@ These are the skins i usually use.
 
 # [Rafis with white cursor](http://www.mediafire.com/file/ix5h3ke8ztkdsj7/Prawilosc_vJP_without_followpoints.osk/file)
 ![](https://osu.ppy.sh/ss/15786721/00bf)
+
+
+# [Azerite](https://www.mediafire.com/file/8ov7p81tdr28b6f/%2523azer8dawn.osk/file)
+![](https://osu.ppy.sh/ss/15979168/80c6)
